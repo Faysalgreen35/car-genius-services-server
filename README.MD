@@ -1,12 +1,12 @@
  # Car Genius
 
 Car Genius is a web application that helps users book servicing for their cars conveniently.
+ 
 
-## Live Links
-
-- Client: [https://car-genius-18058.web.app](#)
-- Server: [https://car-genius-server-omega.vercel.app](#)
-
+**Live Site URL:** [Craftify Creations Client](https://car-genius-18058.web.app)
+ 
+-**Live Site URL:** [Craftify Creations Server](https://car-genius-server-omega.vercel.app)
+ 
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -41,7 +41,7 @@ To run the project locally, follow these steps:
 3. Start the development server: npm run dev
 
 
-4. Open your browser and navigate to http://localhost:3000 to view the application.
+4. Open your browser and navigate to https://car-genius-18058.web.app to view the application.
 
 ## Usage
 
